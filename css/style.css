@@ -312,6 +312,7 @@ main .activeBtn {
   }
   main .calcKeyboard {
     width: 100%;
+    height: 70%;
   }
 }
 @media (max-width: 500px) {
